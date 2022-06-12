@@ -56,7 +56,6 @@ public class SocketThread extends Thread {
             listener.onSocketStop(this);
         }
     }
-
     public synchronized boolean sendMessage(String msg) {
         try {
             out.writeUTF(msg);
