@@ -1,0 +1,42 @@
+2022-06-11 20:30:48.817 [main] INFO  ru.geekbrains.jt.chat.client.Client - info log
+2022-06-11 20:30:48.821 [main] DEBUG ru.geekbrains.jt.chat.client.Client - Debug log
+2022-06-11 20:30:48.821 [main] WARN  ru.geekbrains.jt.chat.client.Client - Warn log
+2022-06-11 20:30:48.821 [main] ERROR ru.geekbrains.jt.chat.client.Client - Error log
+2022-06-11 20:30:48.821 [main] FATAL ru.geekbrains.jt.chat.client.Client - Fatal log
+2022-06-11 20:57:31.239 [main] INFO  ru.geekbrains.jt.chat.client.Client - info log
+2022-06-11 20:57:31.243 [main] DEBUG ru.geekbrains.jt.chat.client.Client - Debug log
+2022-06-11 20:57:31.243 [main] WARN  ru.geekbrains.jt.chat.client.Client - Warn log
+2022-06-11 20:57:31.243 [main] ERROR ru.geekbrains.jt.chat.client.Client - Error log
+2022-06-11 20:57:31.243 [main] FATAL ru.geekbrains.jt.chat.client.Client - Fatal log
+2022-06-11 21:04:05.490 [main] INFO  ru.geekbrains.jt.chat.client.Client - info log
+2022-06-11 21:04:05.500 [main] DEBUG ru.geekbrains.jt.chat.client.Client - Debug log
+2022-06-11 21:04:05.500 [main] WARN  ru.geekbrains.jt.chat.client.Client - Warn log
+2022-06-11 21:04:05.500 [main] ERROR ru.geekbrains.jt.chat.client.Client - Error log
+2022-06-11 21:04:05.501 [main] FATAL ru.geekbrains.jt.chat.client.Client - Fatal log
+2022-06-11 22:30:06.794 [main] INFO  ru.geekbrains.jt.chat.client.Client - info log
+2022-06-11 22:30:06.798 [main] DEBUG ru.geekbrains.jt.chat.client.Client - Debug log
+2022-06-11 22:30:06.798 [main] WARN  ru.geekbrains.jt.chat.client.Client - Warn log
+2022-06-11 22:30:06.798 [main] ERROR ru.geekbrains.jt.chat.client.Client - Error log
+2022-06-11 22:30:06.798 [main] FATAL ru.geekbrains.jt.chat.client.Client - Fatal log
+2022-06-11 22:30:14.137 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - Start
+2022-06-11 22:30:14.138 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - oooooooooooook
+2022-06-11 22:32:25.464 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - info log
+2022-06-11 22:32:25.469 [AWT-EventQueue-0] DEBUG ru.geekbrains.jt.chat.client.Client - Debug log
+2022-06-11 22:32:25.469 [AWT-EventQueue-0] WARN  ru.geekbrains.jt.chat.client.Client - Warn log
+2022-06-11 22:32:25.469 [AWT-EventQueue-0] ERROR ru.geekbrains.jt.chat.client.Client - Error log
+2022-06-11 22:32:25.469 [AWT-EventQueue-0] FATAL ru.geekbrains.jt.chat.client.Client - Fatal log
+2022-06-11 22:32:31.851 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - Start
+2022-06-11 22:32:31.852 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - oooooooooooook
+2022-06-11 22:35:18.011 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - info log
+2022-06-11 22:35:18.016 [AWT-EventQueue-0] DEBUG ru.geekbrains.jt.chat.client.Client - Debug log
+2022-06-11 22:35:18.016 [AWT-EventQueue-0] WARN  ru.geekbrains.jt.chat.client.Client - Warn log
+2022-06-11 22:35:18.016 [AWT-EventQueue-0] ERROR ru.geekbrains.jt.chat.client.Client - Error log
+2022-06-11 22:35:18.016 [AWT-EventQueue-0] FATAL ru.geekbrains.jt.chat.client.Client - Fatal log
+2022-06-11 22:35:24.271 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - Start
+2022-06-11 22:35:24.271 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - oooooooooooook
+2022-06-11 22:35:24.279 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - /auth_deny
+2022-06-11 22:35:24.280 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - oooooooooooook
+2022-06-11 22:44:24.120 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.common.Messages - Start
+2022-06-11 22:44:24.124 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.common.Messages - hiiiiiii
+2022-06-11 22:48:37.748 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.common.Messages - Start
+2022-06-11 22:48:37.752 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.common.Messages - hiiiiiii

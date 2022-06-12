@@ -1,0 +1,17 @@
+2022-06-11 20:24:09.023 [main] DEBUG ru.geekbrains.jt.chat.client.Client - Debug log
+2022-06-11 20:24:09.028 [main] WARN  ru.geekbrains.jt.chat.client.Client - Warn log
+2022-06-11 20:24:09.028 [main] ERROR ru.geekbrains.jt.chat.client.Client - Error log
+2022-06-11 20:24:09.028 [main] FATAL ru.geekbrains.jt.chat.client.Client - Fatal log
+2022-06-11 20:27:22.468 [main] DEBUG ru.geekbrains.jt.chat.client.Client - Debug log
+2022-06-11 20:27:22.472 [main] WARN  ru.geekbrains.jt.chat.client.Client - Warn log
+2022-06-11 20:27:22.472 [main] ERROR ru.geekbrains.jt.chat.client.Client - Error log
+2022-06-11 20:27:22.472 [main] FATAL ru.geekbrains.jt.chat.client.Client - Fatal log
+2022-06-11 20:28:07.738 [main] DEBUG ru.geekbrains.jt.chat.client.Client - Debug log
+2022-06-11 20:28:07.741 [main] WARN  ru.geekbrains.jt.chat.client.Client - Warn log
+2022-06-11 20:28:07.741 [main] ERROR ru.geekbrains.jt.chat.client.Client - Error log
+2022-06-11 20:28:07.741 [main] FATAL ru.geekbrains.jt.chat.client.Client - Fatal log
+2022-06-11 20:29:03.784 [main] INFO  ru.geekbrains.jt.chat.client.Client - info log
+2022-06-11 20:29:03.788 [main] DEBUG ru.geekbrains.jt.chat.client.Client - Debug log
+2022-06-11 20:29:03.788 [main] WARN  ru.geekbrains.jt.chat.client.Client - Warn log
+2022-06-11 20:29:03.788 [main] ERROR ru.geekbrains.jt.chat.client.Client - Error log
+2022-06-11 20:29:03.788 [main] FATAL ru.geekbrains.jt.chat.client.Client - Fatal log

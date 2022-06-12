@@ -1,0 +1,49 @@
+2022-06-11 22:56:28.909 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.common.Messages - Start
+2022-06-11 22:56:28.913 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.common.Messages - hiiiiiii
+2022-06-11 23:02:31.380 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - Start
+2022-06-11 23:02:31.384 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - hiiiiiii
+2022-06-11 23:08:01.769 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - Start
+2022-06-11 23:08:01.769 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - hiiiiiii
+2022-06-11 23:08:45.574 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - rgtr
+2022-06-11 23:08:46.685 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - 8
+2022-06-11 23:08:48.054 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - yhtyh
+2022-06-11 23:08:48.534 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - yuj
+2022-06-11 23:08:50.044 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - yyjuj
+2022-06-11 23:02:18.549 [Chat server 0] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:02:18: Chat server 0: Server thread started
+2022-06-11 23:02:19.013 [Chat server 0] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:02:19: Chat server 0: Server socket created
+2022-06-11 23:02:27.069 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:02:27: AWT-EventQueue-0: Server already started
+2022-06-11 23:02:31.366 [Chat server 0] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:02:31: Chat server 0: client connected
+2022-06-11 23:02:31.374 [SocketThread/127.0.0.1: 51674] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:02:31: SocketThread/127.0.0.1: 51674: Client connected
+2022-06-11 23:02:31.376 [SocketThread/127.0.0.1: 51674] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:02:31: SocketThread/127.0.0.1: 51674: client is ready
+2022-06-11 23:08:01.744 [Chat server 0] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:08:01: Chat server 0: client connected
+2022-06-11 23:08:01.754 [SocketThread/127.0.0.1: 51737] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:08:01: SocketThread/127.0.0.1: 51737: Client connected
+2022-06-11 23:08:01.762 [SocketThread/127.0.0.1: 51737] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:08:01: SocketThread/127.0.0.1: 51737: client is ready
+2022-06-11 23:12:22.789 [Chat server 0] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:12:22: Chat server 0: Server thread stopped
+2022-06-11 23:12:24.855 [Chat server 1] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:12:24: Chat server 1: Server thread started
+2022-06-11 23:12:24.855 [Chat server 1] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:12:24: Chat server 1: Server socket created
+2022-06-11 23:12:57.378 [Client] INFO  ru.geekbrains.jt.network.SocketThread - /auth_request§ivan-igorevich§123
+2022-06-11 23:12:57.378 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - Start
+2022-06-11 23:12:57.383 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - hiiiiiii
+2022-06-11 23:13:19.929 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.network.SocketThread - /user_bcast§tyj
+2022-06-11 23:13:19.929 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - tyj
+2022-06-11 23:13:20.999 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.network.SocketThread - /user_bcast§99;p
+2022-06-11 23:13:20.999 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - 99;p
+2022-06-11 23:12:36.308 [Chat server 0] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:12:36: Chat server 0: Server thread started
+2022-06-11 23:12:36.673 [Chat server 0] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:12:36: Chat server 0: Server socket created
+2022-06-11 23:12:57.359 [Chat server 0] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:12:57: Chat server 0: client connected
+2022-06-11 23:12:57.373 [SocketThread/127.0.0.1: 51758] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:12:57: SocketThread/127.0.0.1: 51758: Client connected
+2022-06-11 23:12:57.378 [SocketThread/127.0.0.1: 51758] INFO  ru.geekbrains.jt.chat.server.core.ChatServer - 23:12:57: SocketThread/127.0.0.1: 51758: client is ready
+2022-06-11 23:12:57.388 [SocketThread/127.0.0.1: 51758] INFO  ru.geekbrains.jt.network.SocketThread - /auth_accept§ivan-igorevich
+2022-06-11 23:12:57.388 [SocketThread/127.0.0.1: 51758] INFO  ru.geekbrains.jt.network.SocketThread - /bcast§1654974777388§Server§ivan-igorevich connected.
+2022-06-11 23:12:57.388 [SocketThread/127.0.0.1: 51758] INFO  ru.geekbrains.jt.network.SocketThread - /user_list§ivan-igorevich§
+2022-06-11 23:13:19.929 [SocketThread/127.0.0.1: 51758] INFO  ru.geekbrains.jt.network.SocketThread - /bcast§1654974799929§ivan-igorevich§tyj
+2022-06-11 23:13:20.999 [SocketThread/127.0.0.1: 51758] INFO  ru.geekbrains.jt.network.SocketThread - /bcast§1654974800999§ivan-igorevich§99;p
+2022-06-12 04:53:03.567 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - Start
+2022-06-12 04:53:03.567 [Client] INFO  ru.geekbrains.jt.network.SocketThread - /auth_request§ivan-igorevich§123
+2022-06-12 04:53:03.572 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - hiiiiiii
+2022-06-12 04:53:08.318 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.network.SocketThread - /user_bcast§yjgtyu
+2022-06-12 04:53:08.318 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - yjgtyu
+2022-06-12 04:53:09.258 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.network.SocketThread - /user_bcast§iop;
+2022-06-12 04:53:09.258 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - iop;
+2022-06-12 04:53:10.253 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.network.SocketThread - /user_bcast§io;p
+2022-06-12 04:53:10.253 [AWT-EventQueue-0] INFO  ru.geekbrains.jt.chat.client.Client - io;p
