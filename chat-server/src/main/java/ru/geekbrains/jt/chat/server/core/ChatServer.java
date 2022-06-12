@@ -51,6 +51,7 @@ public class ChatServer implements ServerSocketThreadListener, SocketThreadListe
                 ": " + msg;
         listener.onChatServerMessage(msg);
         logger2.info(msg);
+
     }
 
     /**

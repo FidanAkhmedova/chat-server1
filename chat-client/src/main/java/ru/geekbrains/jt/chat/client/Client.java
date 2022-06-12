@@ -130,6 +130,7 @@ public class Client extends JFrame implements ActionListener, Thread.UncaughtExc
         socketThread.sendMessage(Messages.getTypeBcastFromClient(msg));
         wrtMsgToLogFile(msg, username);
         logger1.info(msg);
+
     }
 
     private void wrtMsgToLogFile(String msg, String username) {
